@@ -1,5 +1,3 @@
-# DSA
-
 # My DSA Practice Notebook Repository
 
 This repository contains Jupyter notebooks where I solve Data Structures and Algorithms (DSA) problems from platforms like LeetCode and InterviewBit. It serves as my personal space for practicing DSA concepts and solving coding challenges.
