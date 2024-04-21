@@ -11,8 +11,4 @@ This repository contains Jupyter notebooks where I solve Data Structures and Alg
 
 Feel free to explore the notebooks for reference or inspiration. However, please note that this repository is primarily for my personal use, and it's not intended for wider collaboration.
 
-## Feedback
-
-If you have any suggestions or feedback, feel free to reach out to me. However, please understand that I may not actively maintain or update this repository for public use.
-
 Happy coding!
